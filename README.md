@@ -1,4 +1,6 @@
-# React Date Picker
+# React Date Picker Inline
+
+Note this is a temporary branch to get the inline code published to npm.
 
 [![Join the chat at https://gitter.im/Hacker0x01/react-datepicker](https://badges.gitter.im/Hacker0x01/react-datepicker.svg)](https://gitter.im/Hacker0x01/react-datepicker?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![npm version](https://badge.fury.io/js/react-datepicker.svg)](https://badge.fury.io/js/react-datepicker)
